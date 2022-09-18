@@ -1,0 +1,31 @@
+/* You can add global styles to this file, and also import other style files */
+
+.navbar-main {
+    background: black!important;
+}
+
+
+.page-middle-banner {
+  background: url("assets/images/gallery/645-6457880_hands-up-png.png") no-repeat center;
+  background-size: cover;
+  background-attachment: fixed;
+  margin-top: 0px;
+}
+.page-middle-banner .opacity {
+  background:
+  rgba(41, 41, 41, 0.8);
+  text-align: center;
+  padding: 97px 0 97px 0;
+}
+.page-middle-banner .opacity h3 {
+  color: #fff;
+  margin-bottom: 25px;
+}
+.page-middle-banner .opacity a {
+  width: 200px;
+  line-height: 45px;
+  color:#fff;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-width:1px;
+}
